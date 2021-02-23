@@ -1,0 +1,34 @@
+#Random
+.git/
+.DS_Store
+tmp/
+
+#Eclipse
+.project
+.classpath
+
+metadata/
+.metadata/
+.settings/
+bin/
+
+#IntelliJ
+.idea/
+.idea/*
+*.iml
+out/
+
+#Visual studio / VS Code
+.vs/
+Debug/
+.vscode/
+*.sln
+*.vcxproj
+*.vcxproj*
+
+#Project Specific
+lib/
+
+#Checkstyle
+.checkstyle
+/style
